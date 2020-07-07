@@ -1,0 +1,39 @@
+input{
+  background-color: #00adb5;
+  border:none;
+  border-radius:15px;
+  color:#311d3f;
+}
+div{
+  text-transform: capitalize;
+}
+
+form div{
+  padding: 5px;
+}
+
+button{
+  margin-left: 10px;
+}
+.delete-button{
+  background-color: #e23e57;
+  border: none;
+  padding-right:15px;
+  border-radius: 10px;
+  text-align: center;
+  
+}
+.delete-button:hover{
+  background-color: #ce2a43;
+}
+
+.add-button{
+  margin-left: 0;
+  border:none;
+  border-radius:10px;
+  background-color: #00adb5;
+}
+
+.add-button:hover{
+  background-color: #008b92;
+}
